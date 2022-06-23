@@ -1,0 +1,5 @@
+1) criar uma aplicação utilizando vit e seguir os passos
+  * npm create vite@latest 
+
+2) roda o npm install para istalar todas as dependencias
+  * npm install
